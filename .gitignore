@@ -1,3 +1,7 @@
+# these files will not be shown in git status also ,that this below files exit or not.
+
+
 api.key
 docs/
-*.png   --> to ignore png files from upload to github.
+*.png   
+# --> to ignore png files from upload to github.
