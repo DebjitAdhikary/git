@@ -1,0 +1,3 @@
+api.key
+docs/
+*.png   --> to ignore png files from upload to github.
